@@ -9,13 +9,14 @@ The task is to analyse a loan access dataset, develop AI models for bias, assess
     * False Positive and Negative Rate analysis.
  
 ## Project Structure
+```
 loan-bias-audit/
 ├── Loan.py                # Main Python script
 ├── submission.csv         # Model predictions output
 ├── charts/                # Plots from the analysis
 ├── ai_risk_report.docx    # Full bias audit report
 └── README.md              # This file
-
+```
  
 ## Video Demonstration
 Watch the video demo here  [youtube link] (https://youtu.be/Oj-Xq5Ho5Do)
