@@ -19,7 +19,7 @@ loan-bias-audit/
 ```
  
 ## Video Demonstration
-Watch the video demo here  [youtube link] (https://youtu.be/Oj-Xq5Ho5Do)
+Watch the video demo here (https://youtu.be/Oj-Xq5Ho5Do)
 
 ## Key Findings
 * Approval rate disparities across Race and Gender.
