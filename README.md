@@ -9,22 +9,25 @@ The task is to analyse a loan access dataset, develop AI models for bias, assess
     * False Positive and Negative Rate analysis.
  
 ## Project Structure
-```
+
 loan-bias-audit/
-├── Loan.py                # Main Python script
-├── submission.csv         # Model predictions output
-├── charts/                # Plots from the analysis
-├── ai_risk_report.docx    # Full bias audit report
-└── README.md              # This file
-```
- 
-## Video Demonstration
-Watch the video demo here (https://youtu.be/Oj-Xq5Ho5Do)
+- Loan.py  - Main Python script
+- submission.csv  - Model predictions output
+- charts - Plots from the analysis
+- ai_risk_report.docx - Full bias audit report
+- README.md
+
 
 ## Key Findings
 * Approval rate disparities across Race and Gender.
 * False Negative rates show more wrongful rejections for Multiracial and Native American groups.
 * Removing sensitive features alone did not fully remove bias.
+
+## Suggestions to Improve Ethical and Responsible AI development
+- Training datastes shjould be diverse and representative of different populations.
+- Bias audits should be conducted thoroughl before models are deployed.
+- Model decisions should be explainable so that the outcomes can be understood and wuestionsed by users.
+- Regular monitoring should be carried out after deployment to detect and address any biases that come up over time.
 
 ## Limitations
 * Bias mitigation techniques could not be applied due to insufficient time.
